@@ -8,9 +8,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JToggleButton;
 import java.awt.FlowLayout;
 import javax.swing.UIManager;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
+
 /**
  * @author Marc and Dan
  *

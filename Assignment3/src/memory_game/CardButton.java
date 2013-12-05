@@ -2,9 +2,6 @@ package memory_game;
 
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JPanel;
-import javax.swing.JFrame;
 import javax.swing.JToggleButton;
 
 
